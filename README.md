@@ -16,3 +16,10 @@
 ![spalva pasikeičia paspaudus ant figūros](https://i.imgur.com/nF8HkL1.png)
 
 ![spalva pasikeitė](https://i.imgur.com/48htDY7.png)
+# Naudoti įrankiai
+
+ - PHP
+ - HTML, CSS
+ - Javascript
+ - Three.js
+ - jQuery
