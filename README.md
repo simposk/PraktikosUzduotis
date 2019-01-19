@@ -9,7 +9,7 @@
 ![0002.obj](https://i.imgur.com/dgLXnDF.png)
 ![0003.obj](https://i.imgur.com/brZmHsn.png)
 ###
-*Įvedus ID kurio nėra duomenų bazėja rodomas pranešimas*
+*Įvedus ID kurio nėra duomenų bazėje, rodomas pranešimas*
 ![ID nerastas](https://i.imgur.com/WikT5ZO.png)
 ###
 *Paspaudus ant figūros, jos spalva pakeičiama ir atnaujinama duomenų bazės eilutė*
